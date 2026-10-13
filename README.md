@@ -1,4 +1,4 @@
-# vnw-resgate-api
+# BASIC - API - STARTER
 
 API de CRUD de Usuários básica.  
 Projetada como base de estudo para alunos — simples, segura e pronta para expandir.
